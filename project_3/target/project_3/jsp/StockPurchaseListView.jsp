@@ -156,7 +156,7 @@
 			</br>
 			<div style="margin-bottom: 20px;" class="table-responsive">
 				<table class="table table-dark table-bordered  table-hover">
-					<thead>
+					<thead align="center">
 						<tr style="background-color: #8C8C8C;">
 
 							<th width="10%"><input type="checkbox" id="select_all"
